@@ -1,0 +1,44 @@
+[
+    {
+        "image": "images/model-1.jpg",
+        "category": "Drevorezba/Podložka",
+        "title": "Srnec",
+        "link": "work-single.html"
+    },
+    {
+        "image": "images/model-2.jpg",
+        "category": "Drevorezba/Podložka",
+        "title": "Srnec",
+        "link": "work-single.html"
+    },
+    {
+        "image": "images/model-3.jpg",
+        "category": "Drevorezba",
+        "title": "Anjel",
+        "link": "work-single.html"
+    },
+    {
+        "image": "images/model-4.jpg",
+        "category": "Drevorezba/Nástenné hodiny",
+        "title": "Polovník",
+        "link": "work-single.html"
+    },
+    {
+        "image": "images/model-5.jpg",
+        "category": "Drevorezba/Nástenné hodiny",
+        "title": "Polovník",
+        "link": "work-single.html"
+    },
+    {
+        "image": "images/model-6.jpg",
+        "category": "Drevorezba/Nástenné hodiny",
+        "title": "Bohyňa lovu",
+        "link": "work-single.html"
+    },
+    {
+        "image": "images/model-7.jpg",
+        "category": "Drevorezba/Nástenné hodiny",
+        "title": "Polovník",
+        "link": "work-single.html"
+    }
+]

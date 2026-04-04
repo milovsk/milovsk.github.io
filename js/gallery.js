@@ -148,7 +148,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 <div class="icon d-flex justify-content-center align-items-center" style="position: relative; z-index:1; pointer-events:none;">
                     <span class="icon-expand"></span>
                 </div>
-                <div class="desc w-100 px-4" style="position: relative; z-index:1; pointer-events:none;">
+                <div class="desc w-100 px-3" style="position: relative; z-index:1; pointer-events:none;">
                     <div class="text w-100 mb-3">
                         <span>${item.category}</span>
                         <h2><span style="color:#fff; cursor:default;">${item.title}</span></h2>

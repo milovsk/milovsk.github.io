@@ -1,44 +1,135 @@
 [
     {
         "image": "images/model-1.jpg",
+        "thumb": "images/model-1-thumb.jpg",
         "category": "Drevorezba/Podložka",
         "title": "Srnec",
         "link": "work-single.html"
     },
     {
         "image": "images/model-2.jpg",
+        "thumb": "images/model-2-thumb.jpg",
         "category": "Drevorezba/Podložka",
         "title": "Srnec",
         "link": "work-single.html"
     },
     {
         "image": "images/model-3.jpg",
+        "thumb": "images/model-3-thumb.jpg",
         "category": "Drevorezba",
         "title": "Anjel",
         "link": "work-single.html"
     },
     {
         "image": "images/model-4.jpg",
+        "thumb": "images/model-4-thumb.jpg",
         "category": "Drevorezba/Nástenné hodiny",
         "title": "Polovník",
         "link": "work-single.html"
     },
     {
         "image": "images/model-5.jpg",
+        "thumb": "images/model-5-thumb.jpg",
         "category": "Drevorezba/Nástenné hodiny",
         "title": "Polovník",
         "link": "work-single.html"
     },
     {
         "image": "images/model-6.jpg",
+        "thumb": "images/model-6-thumb.jpg",
         "category": "Drevorezba/Nástenné hodiny",
         "title": "Bohyňa lovu",
         "link": "work-single.html"
     },
     {
         "image": "images/model-7.jpg",
+        "thumb": "images/model-7-thumb.jpg",
         "category": "Drevorezba/Nástenné hodiny",
         "title": "Polovník",
+        "link": "work-single.html"
+    },
+    {
+        "image": "images/boar.jpg",
+        "thumb": "images/boar-thumb.jpg",
+        "category": "Drevorezba",
+        "title": "Diviak",
+        "link": "work-single.html"
+    },
+    {
+        "image": "images/board-taxanomy.jpg",
+        "thumb": "images/board-taxanomy-thumb.jpg",
+        "category": "Drevorezba/Podložka",
+        "title": "Podložka",
+        "link": "work-single.html"
+    },
+    {
+        "image": "images/clock.jpg",
+        "thumb": "images/clock-thumb.jpg",
+        "category": "Drevorezba/Nástenné hodiny",
+        "title": "Hodiny",
+        "link": "work-single.html"
+    },
+    {
+        "image": "images/deer-heat-1.jpg",
+        "thumb": "images/deer-heat-1-thumb.jpg",
+        "category": "Maľba",
+        "title": "Jeleň v ruji 1",
+        "link": "work-single.html"
+    },
+    {
+        "image": "images/deer-heat-2.jpg",
+        "thumb": "images/deer-heat-2-thumb.jpg",
+        "category": "Maľba",
+        "title": "Jeleň v ruji 2",
+        "link": "work-single.html"
+    },
+    {
+        "image": "images/deer-heat-3.jpg",
+        "thumb": "images/deer-heat-3-thumb.jpg",
+        "category": "Maľba",
+        "title": "Jeleň v ruji 3",
+        "link": "work-single.html"
+    },
+    {
+        "image": "images/jesus.jpg",
+        "thumb": "images/jesus-thumb.jpg",
+        "category": "Drevorezba",
+        "title": "Ježiš",
+        "link": "work-single.html"
+    },
+    {
+        "image": "images/kids-castle.jpg",
+        "thumb": "images/kids-castle-thumb.jpg",
+        "category": "Produkty z dreva",
+        "title": "Detský hrad",
+        "link": "work-single.html"
+    },
+    {
+        "image": "images/love.jpg",
+        "thumb": "images/love-thumb.jpg",
+        "category": "Drevorezba",
+        "title": "Láska",
+        "link": "work-single.html"
+    },
+    {
+        "image": "images/mouflon.jpg",
+        "thumb": "images/mouflon-thumb.jpg",
+        "category": "Drevorezba",
+        "title": "Muflón",
+        "link": "work-single.html"
+    },
+    {
+        "image": "images/seating-1.jpg",
+        "thumb": "images/seating-1-thumb.jpg",
+        "category": "Produkty z dreva",
+        "title": "Sedenie",
+        "link": "work-single.html"
+    },
+    {
+        "image": "images/seating-2.jpg",
+        "thumb": "images/seating-2-thumb.jpg",
+        "category": "Produkty z dreva",
+        "title": "Sedenie",
         "link": "work-single.html"
     }
 ]

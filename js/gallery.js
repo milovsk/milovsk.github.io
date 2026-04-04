@@ -143,14 +143,15 @@ document.addEventListener("DOMContentLoaded", function () {
         // Added ftco-animated and fadeInUp to ensure it's visible after dynamic load
         col.className = 'col-md-4 ftco-animate ftco-animated fadeInUp';
         col.innerHTML = `
-            <div class="model img d-flex align-items-end" style="background-image: url(${item.thumb || item.image});">
-                <a href="${item.image}" class="icon image-popup d-flex justify-content-center align-items-center">
+            <div class="model img d-flex align-items-end" style="background-image: url(${item.thumb || item.image}); position: relative;">
+                <a href="${item.image}" class="image-popup" style="position: absolute; top:0; left:0; width:100%; height:100%; z-index:10; text-decoration:none;"></a>
+                <div class="icon d-flex justify-content-center align-items-center" style="position: relative; z-index:1; pointer-events:none;">
                     <span class="icon-expand"></span>
-                </a>
-                <div class="desc w-100 px-4">
+                </div>
+                <div class="desc w-100 px-4" style="position: relative; z-index:1; pointer-events:none;">
                     <div class="text w-100 mb-3">
                         <span>${item.category}</span>
-                        <h2><a href="${item.link || '#'}">${item.title}</a></h2>
+                        <h2><span style="color:#fff; cursor:default;">${item.title}</span></h2>
                     </div>
                 </div>
             </div>

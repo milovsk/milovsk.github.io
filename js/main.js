@@ -160,6 +160,12 @@ $(document).ready(function($) {
     fixedContentPos: false
   });
 
+  $('.open-social-popup').magnificPopup({
+    type: 'inline',
+    mainClass: 'mfp-fade',
+    removalDelay: 300
+  });
+
 });
 
 
@@ -186,6 +192,9 @@ $(function() {
   // Change active dot according to the active section in the window
   function scrNav() {
     var sTop = $(window).scrollTop();
+    var windowHeight = $(window).height();
+    var docHeight = $(document).height();
+
     $('section').each(function() {
       var id = $(this).attr('id'),
           offset = $(this).offset().top-1,
@@ -195,6 +204,12 @@ $(function() {
         $('#navbar').find('[data-scroll="' + id + '"]').addClass('active');
       }
     });
+
+    // Check if bottom is reached to highlight the last section
+    if(sTop + windowHeight >= docHeight - 10) {
+      link.removeClass('active');
+      $('#navbar').find('[data-scroll="contact"]').addClass('active');
+    }
   }
   scrNav();
 });

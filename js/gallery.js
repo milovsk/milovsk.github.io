@@ -164,7 +164,8 @@ document.addEventListener("DOMContentLoaded", function () {
             closeOnContentClick: true,
             closeBtnInside: false,
             fixedContentPos: true,
-            mainClass: 'mfp-no-margins mfp-with-zoom',
+            mainClass: 'mfp-no-margins mfp-fade',
+            removalDelay: 300,
             gallery: {
                 enabled: true,
                 navigateByImgClick: true,
@@ -172,10 +173,6 @@ document.addEventListener("DOMContentLoaded", function () {
             },
             image: {
                 verticalFit: true
-            },
-            zoom: {
-                enabled: true,
-                duration: 300
             }
         });
     });

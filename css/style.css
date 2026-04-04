@@ -9830,3 +9830,21 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+/* Magnific Popup Fade Effect */
+.mfp-fade.mfp-bg { opacity: 0; -webkit-transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; transition: all 0.3s ease-out; }
+.mfp-fade.mfp-bg.mfp-ready { opacity: 0.8; }
+.mfp-fade.mfp-bg.mfp-removing { opacity: 0; }
+.mfp-fade.mfp-wrap .mfp-content { opacity: 0; -webkit-transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; transition: all 0.3s ease-out; }
+.mfp-fade.mfp-wrap.mfp-ready .mfp-content { opacity: 1; }
+.mfp-fade.mfp-wrap.mfp-removing .mfp-content { opacity: 0; }
+
+#social-popup {
+  max-width: 400px;
+  margin: 0 auto;
+  background: #191a1c;
+  padding: 30px;
+  text-align: center;
+  border-radius: 5px;
+  border: 1px solid rgba(255,255,255,.1);
+}

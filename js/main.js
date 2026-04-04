@@ -135,18 +135,15 @@ $(document).ready(function($) {
     closeOnContentClick: true,
     closeBtnInside: false,
     fixedContentPos: true,
-    mainClass: 'mfp-no-margins mfp-with-zoom', // class to remove default margin from left and right side
-     gallery: {
+    mainClass: 'mfp-no-margins mfp-fade', // class to remove default margin from left and right side
+    removalDelay: 300,
+    gallery: {
       enabled: true,
       navigateByImgClick: true,
       preload: [0,1] // Will preload 0 - before current, and 1 after the current image
     },
     image: {
       verticalFit: true
-    },
-    zoom: {
-      enabled: true,
-      duration: 300 // don't foget to change the duration also in CSS
     }
   });
 

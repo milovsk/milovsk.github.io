@@ -73,21 +73,21 @@ document.addEventListener("DOMContentLoaded", function () {
         {
             "image": "images/deer-heat-1.jpg",
             "thumb": "images/deer-heat-1-thumb.jpg",
-            "category": "Maľba",
+            "category": "Drevorezba",
             "title": "Jeleň v ruji 1",
             "link": "work-single.html"
         },
         {
             "image": "images/deer-heat-2.jpg",
             "thumb": "images/deer-heat-2-thumb.jpg",
-            "category": "Maľba",
+            "category": "Drevorezba",
             "title": "Jeleň v ruji 2",
             "link": "work-single.html"
         },
         {
             "image": "images/deer-heat-3.jpg",
             "thumb": "images/deer-heat-3-thumb.jpg",
-            "category": "Maľba",
+            "category": "Drevorezba",
             "title": "Jeleň v ruji 3",
             "link": "work-single.html"
         },
@@ -158,22 +158,24 @@ document.addEventListener("DOMContentLoaded", function () {
         `;
         container.appendChild(col);
 
-        // Initialize magnific popup for the newly created element
-        $(col).find('.image-popup').magnificPopup({
-            type: 'image',
-            closeOnContentClick: true,
-            closeBtnInside: false,
-            fixedContentPos: true,
-            mainClass: 'mfp-no-margins mfp-fade',
-            removalDelay: 300,
-            gallery: {
-                enabled: true,
-                navigateByImgClick: true,
-                preload: [0, 1]
-            },
-            image: {
-                verticalFit: true
-            }
-        });
+    });
+
+    // Initialize unified magnific popup gallery on the container
+    $(container).magnificPopup({
+        delegate: '.image-popup',
+        type: 'image',
+        closeOnContentClick: true,
+        closeBtnInside: false,
+        fixedContentPos: true,
+        mainClass: 'mfp-no-margins mfp-fade',
+        removalDelay: 300,
+        gallery: {
+            enabled: true,
+            navigateByImgClick: true,
+            preload: [0, 1]
+        },
+        image: {
+            verticalFit: true
+        }
     });
 });

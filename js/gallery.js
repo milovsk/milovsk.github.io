@@ -15,10 +15,17 @@ document.addEventListener("DOMContentLoaded", function () {
             "link": "work-single.html"
         },
         {
+            "image": "images/mouflon.jpg",
+            "thumb": "images/mouflon-thumb.jpg",
+            "category": "Drevorezba/Podložka",
+            "title": "Muflón",
+            "link": "work-single.html"
+        },
+        {
             "image": "images/board-taxanomy.jpg",
             "thumb": "images/board-taxanomy-thumb.jpg",
             "category": "Drevorezba/Podložka",
-            "title": "Podložka",
+            "title": "Muflón (osadená)",
             "link": "work-single.html"
         },
         {
@@ -47,13 +54,6 @@ document.addEventListener("DOMContentLoaded", function () {
             "thumb": "images/boar-thumb.jpg",
             "category": "Drevorezba/Podložka",
             "title": "Diviak",
-            "link": "work-single.html"
-        },
-        {
-            "image": "images/mouflon.jpg",
-            "thumb": "images/mouflon-thumb.jpg",
-            "category": "Drevorezba/Podložka",
-            "title": "Muflón",
             "link": "work-single.html"
         },
         {

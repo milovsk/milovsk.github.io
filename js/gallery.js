@@ -57,13 +57,6 @@ document.addEventListener("DOMContentLoaded", function () {
             "link": "work-single.html"
         },
         {
-            "image": "images/model-3.jpg",
-            "thumb": "images/model-3-thumb.jpg",
-            "category": "Drevorezba/Iné",
-            "title": "Anjel",
-            "link": "work-single.html"
-        },
-        {
             "image": "images/model-4.jpg",
             "thumb": "images/model-4-thumb.jpg",
             "category": "Drevorezba/Nástenné hodiny",
@@ -103,6 +96,13 @@ document.addEventListener("DOMContentLoaded", function () {
             "thumb": "images/jesus-thumb.jpg",
             "category": "Drevorezba/Iné",
             "title": "Ježiš",
+            "link": "work-single.html"
+        },
+        {
+            "image": "images/model-3.jpg",
+            "thumb": "images/model-3-thumb.jpg",
+            "category": "Drevorezba/Iné",
+            "title": "Anjel",
             "link": "work-single.html"
         },
         {

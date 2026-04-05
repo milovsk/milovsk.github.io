@@ -15,6 +15,34 @@ document.addEventListener("DOMContentLoaded", function () {
             "link": "work-single.html"
         },
         {
+            "image": "images/board-taxanomy.jpg",
+            "thumb": "images/board-taxanomy-thumb.jpg",
+            "category": "Drevorezba/Podložka",
+            "title": "Podložka",
+            "link": "work-single.html"
+        },
+        {
+            "image": "images/deer-heat-1.jpg",
+            "thumb": "images/deer-heat-1-thumb.jpg",
+            "category": "Podložka",
+            "title": "Jeleň v ruji 1",
+            "link": "work-single.html"
+        },
+        {
+            "image": "images/deer-heat-2.jpg",
+            "thumb": "images/deer-heat-2-thumb.jpg",
+            "category": "Podložka",
+            "title": "Jeleň v ruji 2",
+            "link": "work-single.html"
+        },
+        {
+            "image": "images/deer-heat-3.jpg",
+            "thumb": "images/deer-heat-3-thumb.jpg",
+            "category": "Podložka",
+            "title": "Jeleň v ruji 3",
+            "link": "work-single.html"
+        },
+        {
             "image": "images/model-3.jpg",
             "thumb": "images/model-3-thumb.jpg",
             "category": "Drevorezba",
@@ -57,13 +85,6 @@ document.addEventListener("DOMContentLoaded", function () {
             "link": "work-single.html"
         },
         {
-            "image": "images/board-taxanomy.jpg",
-            "thumb": "images/board-taxanomy-thumb.jpg",
-            "category": "Drevorezba/Podložka",
-            "title": "Podložka",
-            "link": "work-single.html"
-        },
-        {
             "image": "images/clock.jpg",
             "thumb": "images/clock-thumb.jpg",
             "category": "Drevorezba/Nástenné hodiny",
@@ -71,38 +92,10 @@ document.addEventListener("DOMContentLoaded", function () {
             "link": "work-single.html"
         },
         {
-            "image": "images/deer-heat-1.jpg",
-            "thumb": "images/deer-heat-1-thumb.jpg",
-            "category": "Podložka",
-            "title": "Jeleň v ruji 1",
-            "link": "work-single.html"
-        },
-        {
-            "image": "images/deer-heat-2.jpg",
-            "thumb": "images/deer-heat-2-thumb.jpg",
-            "category": "Podložka",
-            "title": "Jeleň v ruji 2",
-            "link": "work-single.html"
-        },
-        {
-            "image": "images/deer-heat-3.jpg",
-            "thumb": "images/deer-heat-3-thumb.jpg",
-            "category": "Podložka",
-            "title": "Jeleň v ruji 3",
-            "link": "work-single.html"
-        },
-        {
             "image": "images/jesus.jpg",
             "thumb": "images/jesus-thumb.jpg",
             "category": "Drevorezba",
             "title": "Ježiš",
-            "link": "work-single.html"
-        },
-        {
-            "image": "images/kids-castle-ladder.jpg",
-            "thumb": "images/kids-castle-ladder-thumb.jpg",
-            "category": "Produkty z dreva",
-            "title": "Detský hrad",
             "link": "work-single.html"
         },
         {
@@ -117,6 +110,13 @@ document.addEventListener("DOMContentLoaded", function () {
             "thumb": "images/mouflon-thumb.jpg",
             "category": "Drevorezba",
             "title": "Muflón",
+            "link": "work-single.html"
+        },
+        {
+            "image": "images/kids-castle-ladder.jpg",
+            "thumb": "images/kids-castle-ladder-thumb.jpg",
+            "category": "Produkty z dreva",
+            "title": "Detský hrad",
             "link": "work-single.html"
         },
         {

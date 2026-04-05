@@ -99,8 +99,8 @@ document.addEventListener("DOMContentLoaded", function () {
             "link": "work-single.html"
         },
         {
-            "image": "images/kids-castle.jpg",
-            "thumb": "images/kids-castle-thumb.jpg",
+            "image": "images/kids-castle-ladder.jpg",
+            "thumb": "images/kids-castle-ladder-thumb.jpg",
             "category": "Produkty z dreva",
             "title": "Detský hrad",
             "link": "work-single.html"

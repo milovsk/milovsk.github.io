@@ -73,21 +73,21 @@ document.addEventListener("DOMContentLoaded", function () {
         {
             "image": "images/deer-heat-1.jpg",
             "thumb": "images/deer-heat-1-thumb.jpg",
-            "category": "Drevorezba",
+            "category": "Podložka",
             "title": "Jeleň v ruji 1",
             "link": "work-single.html"
         },
         {
             "image": "images/deer-heat-2.jpg",
             "thumb": "images/deer-heat-2-thumb.jpg",
-            "category": "Drevorezba",
+            "category": "Podložka",
             "title": "Jeleň v ruji 2",
             "link": "work-single.html"
         },
         {
             "image": "images/deer-heat-3.jpg",
             "thumb": "images/deer-heat-3-thumb.jpg",
-            "category": "Drevorezba",
+            "category": "Podložka",
             "title": "Jeleň v ruji 3",
             "link": "work-single.html"
         },

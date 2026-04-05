@@ -24,28 +24,42 @@ document.addEventListener("DOMContentLoaded", function () {
         {
             "image": "images/deer-heat-1.jpg",
             "thumb": "images/deer-heat-1-thumb.jpg",
-            "category": "Podložka",
+            "category": "Drevorezba/Podložka",
             "title": "Jeleň v ruji 1",
             "link": "work-single.html"
         },
         {
             "image": "images/deer-heat-2.jpg",
             "thumb": "images/deer-heat-2-thumb.jpg",
-            "category": "Podložka",
+            "category": "Drevorezba/Podložka",
             "title": "Jeleň v ruji 2",
             "link": "work-single.html"
         },
         {
             "image": "images/deer-heat-3.jpg",
             "thumb": "images/deer-heat-3-thumb.jpg",
-            "category": "Podložka",
+            "category": "Drevorezba/Podložka",
             "title": "Jeleň v ruji 3",
+            "link": "work-single.html"
+        },
+        {
+            "image": "images/boar.jpg",
+            "thumb": "images/boar-thumb.jpg",
+            "category": "Drevorezba/Podložka",
+            "title": "Diviak",
+            "link": "work-single.html"
+        },
+        {
+            "image": "images/mouflon.jpg",
+            "thumb": "images/mouflon-thumb.jpg",
+            "category": "Drevorezba/Podložka",
+            "title": "Muflón",
             "link": "work-single.html"
         },
         {
             "image": "images/model-3.jpg",
             "thumb": "images/model-3-thumb.jpg",
-            "category": "Drevorezba",
+            "category": "Drevorezba/Iné",
             "title": "Anjel",
             "link": "work-single.html"
         },
@@ -78,13 +92,6 @@ document.addEventListener("DOMContentLoaded", function () {
             "link": "work-single.html"
         },
         {
-            "image": "images/boar.jpg",
-            "thumb": "images/boar-thumb.jpg",
-            "category": "Drevorezba",
-            "title": "Diviak",
-            "link": "work-single.html"
-        },
-        {
             "image": "images/clock.jpg",
             "thumb": "images/clock-thumb.jpg",
             "category": "Drevorezba/Nástenné hodiny",
@@ -94,22 +101,15 @@ document.addEventListener("DOMContentLoaded", function () {
         {
             "image": "images/jesus.jpg",
             "thumb": "images/jesus-thumb.jpg",
-            "category": "Drevorezba",
+            "category": "Drevorezba/Iné",
             "title": "Ježiš",
             "link": "work-single.html"
         },
         {
             "image": "images/love.jpg",
             "thumb": "images/love-thumb.jpg",
-            "category": "Drevorezba",
+            "category": "Drevorezba/Iné",
             "title": "Láska",
-            "link": "work-single.html"
-        },
-        {
-            "image": "images/mouflon.jpg",
-            "thumb": "images/mouflon-thumb.jpg",
-            "category": "Drevorezba",
-            "title": "Muflón",
             "link": "work-single.html"
         },
         {

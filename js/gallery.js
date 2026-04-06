@@ -36,6 +36,13 @@ document.addEventListener("DOMContentLoaded", function () {
             "link": "work-single.html"
         },
         {
+            "image": "images/deer-skull.jpg",
+            "thumb": "images/deer-skull-thumb.jpg",
+            "category": "Drevorezba/Podložka",
+            "title": "Jeleň v ruji 1 (osadená)",
+            "link": "work-single.html"
+        },
+        {
             "image": "images/deer-heat-2.jpg",
             "thumb": "images/deer-heat-2-thumb.jpg",
             "category": "Drevorezba/Podložka",
